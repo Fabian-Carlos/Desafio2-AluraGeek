@@ -23,7 +23,7 @@ async function crearProducto(nombre,precio,imagen){
         precio:precio,
         imagen:imagen
     })
-    })
+    });
     if(!conexion.ok){
         throw new Error("No fue posible enviar el producto");
     }
