@@ -34,7 +34,7 @@ async function crearProducto(nombre,precio,imagen){
 
 async function eliminarProducto(id){
     console.log("estoy en datos, id:"+id);
-    const conexion = await fetch(`http://localhost:3003/productos/${id}`, {
+    const conexion = await fetch(`https://api-falsa.vercel.app/productos/${id}`, {
         method: "DELETE",
         headers: {
             "Content-type": "application/json"
