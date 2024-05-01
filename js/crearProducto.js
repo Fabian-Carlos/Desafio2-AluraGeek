@@ -20,4 +20,4 @@ async function crearProducto(evento){
     }
 }
 
-formulario,addEventListener("submit",evento=>crearProducto(evento));
+formulario.addEventListener("submit",evento=>crearProducto(evento));
