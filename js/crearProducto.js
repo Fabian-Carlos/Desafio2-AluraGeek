@@ -14,7 +14,7 @@ async function crearProducto(evento){
     try{
         await conectaAPI.crearProducto(nombre,precio,imagen)
     
-        // window.location.href="../pages/envio-concluido.html"
+     
     }catch(e){
         alert(e);
     }
