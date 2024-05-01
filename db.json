@@ -1,0 +1,124 @@
+{
+  "productos": [
+    {
+      "id": "2",
+      "nombre": "Figura Pop Hector de Funko",
+      "precio": "30",
+      "imagen": "https://muchosnegociosrentables.com/wp-content/uploads/2018/05/Figuras-Pop-De-Funko-para-nerds-y-geeks.jpg"
+    },
+    {
+      "id": "3",
+      "nombre": "Taza blanca",
+      "precio": "14",
+      "imagen": "https://muchosnegociosrentables.com/wp-content/uploads/2018/05/Llaveros-y-tazas-geek-y-nerd.jpg"
+    },
+    {
+      "id": "4",
+      "nombre": "funda guazon para movil",
+      "precio": "9",
+      "imagen": "https://muchosnegociosrentables.com/wp-content/uploads/2018/05/Carcasas-fundas-para-el-m%C3%B3vil-geek-y-nerd.jpg"
+    },
+    {
+      "id": "5",
+      "nombre": "Lego ingeniero",
+      "precio": "12",
+      "imagen": "https://muchosnegociosrentables.com/wp-content/uploads/2018/05/Lego-nerd.jpg"
+    },
+    {
+      "id": "6",
+      "nombre": "peluche Yoda",
+      "precio": "20",
+      "imagen": "https://dobutsuen-mae.com/3827-medium_default/peluche-yoda.jpg"
+    },
+    {
+      "id": "7",
+      "nombre": "cartera de teclas",
+      "precio": "22",
+      "imagen": "https://www.webespacio.com/wp-content/uploads/2009/06/keybag.gif"
+    },
+    {
+      "id": "8",
+      "nombre": "arcade porta tabletas",
+      "precio": "17",
+      "imagen": "https://i.pinimg.com/originals/9a/40/12/9a401208316ea5059b2af6c1fac5daaf.jpg"
+    },
+    {
+      "id": "9",
+      "nombre": "Mouse nave espacial",
+      "precio": "31",
+      "imagen": "https://lojaquemario.com.br/media/catalog/product/cache/1/image/265x/9df78eab33525d08d6e5fb8d27136e95/m/o/mouse_plastico_nave_espacial_preto.jpg"
+    },
+    {
+      "id": "10",
+      "nombre": "Webcam USB Rocket launcher",
+      "precio": "37",
+      "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyfEXoha8LX4CoGNZLVQlxCknUc6vo2mKiVUq0lfMIl4W9rjqAZpFEPX7cpcN-1SZ9imHFwijfnZ5P-02HyQBDzusBMJHmJIzRqDaJYxZBIVyh1_iiRQCJBdP0wEPOdY3xwuWwrXQQ7ZV0/s1600/g8.jpg"
+    },
+    {
+      "id": "11",
+      "nombre": "portalapiceros Taza geek",
+      "precio": "20",
+      "imagen": "https://i.etsystatic.com/16512696/r/il/5dbccd/2378146759/il_fullxfull.2378146759_ga8p.jpg"
+    },
+    {
+      "id": "12",
+      "nombre": "Parche batman",
+      "precio": "17",
+      "imagen": "https://cdn-forum.bambulab.com/optimized/2X/9/9d35fcdb7cdc8d519fd2a8841c81eee25cb4dc42_2_750x1000.jpeg"
+    },
+    {
+      "id": "13",
+      "nombre": "Cube Speaker",
+      "precio": "39",
+      "imagen": "https://i.pinimg.com/originals/ed/dc/1f/eddc1f54050ab4200c25b90d7487c460.jpg"
+    },
+    {
+      "id": "14",
+      "nombre": "Portalibros teletrasportacion",
+      "precio": "25",
+      "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVUx42qw1N7rEhO9yT5hydaN-r3a161O9r_zYNR5BliKVTc1yzNWgbW2GSel3_25LtzJ2upSoLlgpVhLrxddm-SZ9mZupjKqumYItpokfYpST4VOU4J3yp2qHpdlnwn24IPOC7/s1600/gift-geek-4.jpg"
+    },
+    {
+      "id": "15",
+      "nombre": "pistolataza",
+      "precio": "20",
+      "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZ4Cj7U8TjeeFfdxn_hyphenhyphenAAqqB1rXGq6YU39egKogZRlENj_E1EhPjudbEuC5p685aD04NKtGBG-P7xPmfsPKGLV2pljoeyMvMvzyxGOnLzlSRwMeVAyFIGOoyfSbgX9gNCh369/s1600/gift-geek-5.jpg"
+    },
+    {
+      "id": "16",
+      "nombre": "guante del infinito",
+      "precio": "45",
+      "imagen": "https://img.clasf.pe/2019/05/20/Guantelete-Guante-Del-Infinito-Iron-Man-Endgame-Articulable-20190520174135.0261710015.jpg"
+    },
+    {
+      "id": "17",
+      "nombre": "Headset de Sony Playstation VR",
+      "precio": "41",
+      "imagen": "https://media.gq.com.mx/photos/617c3c63baf6be34ac935ad7/master/w_1600,c_limit/Sony-PlayStation-VR.jpg"
+    },
+    {
+      "id": "18",
+      "nombre": "Teclado Razer Huntsman Elite",
+      "precio": "28",
+      "imagen": "https://media.gq.com.mx/photos/617c3c7569b0d2ef94390380/master/w_1600,c_limit/Razer-Huntsman-Elite.jpg"
+    },
+    {
+      "id": "19",
+      "nombre": "Super Nes Classic Mini",
+      "precio": "33",
+      "imagen": "https://media.gq.com.mx/photos/617c3c88baf6be34ac935ad9/master/w_1600,c_limit/Super-Nintendo-SUPER-NES-Classic-Mini.jpg"
+    },
+    {
+      "id": "20",
+      "nombre": "Mouse Logitech G502 HERO 16K",
+      "precio": "29",
+      "imagen": "https://media.gq.com.mx/photos/617c3c95592668672b4985f7/master/w_1600,c_limit/Logitech-G502-HERO-16K.jpg"
+    },
+    {
+      "id": "6cc7",
+      "nombre": "Funko Pop Matrix",
+      "precio": "23",
+      "imagen": "https://geekindustry.com.mx/wp-content/uploads/2022/05/42926905_0-768x768.jpg"
+    }
+  ]
+}
