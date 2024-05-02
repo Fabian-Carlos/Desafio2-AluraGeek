@@ -12,6 +12,7 @@ formulario.addEventListener("submit", (e) => {
     nombre: e.target.getElementById("nombre").value,
     precio: e.target.getElementById("precio").value,
     imagen: e.target.getElementById("imagen").value,
+    
   };
   localStorage.setItem("registro", JSON.stringify(listaRespuestas));
   console.log(listaRespuestas);
