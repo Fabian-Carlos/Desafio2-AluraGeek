@@ -13,7 +13,7 @@ async function crearProducto(evento){
 
     try{
         await conectaAPI.crearProducto(nombre,precio,imagen)
-    
+        location.reload();
      
     }catch(e){
         alert(e);
