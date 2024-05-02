@@ -26,7 +26,7 @@ h1{
     justify-content: space-between;
     background-color:  #100b31;
 
-    background-image: url('/imagenes/arcade1.png');
+    background-image: url('./imagenes/arcade1.png');
     background-repeat: no-repeat; 
     background-size:330px;
     background-position: bottom right;
