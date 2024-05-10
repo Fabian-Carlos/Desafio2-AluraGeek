@@ -237,7 +237,7 @@ height: 65px;
 .coleccion{
    
     width:100%;   
-    height:560px;
+    height:575px;
     flex-direction: column;
     overflow-x: auto;
     overflow-y:hidden;
