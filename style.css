@@ -38,7 +38,7 @@ h1{
     height: 907px;
     flex-direction: column;
     gap: 40px;
-    overflow: scroll;
+    overflow-y: scroll;
     
 }
 
